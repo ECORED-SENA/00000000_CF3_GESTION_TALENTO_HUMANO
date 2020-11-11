@@ -1,0 +1,48 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-1",
+    "title": "1. Indicadores de gestión",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/tema-1.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.1 Definición",
+        "anchor": "tema-1_1"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.2 Características",
+        "anchor": "tema-1_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.3 Objetivos",
+        "anchor": "tema-1_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.4 Construcción de indicadores ",
+        "anchor": "tema-1_4"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "tema-1",
+        "title": "1.5 Indicadores de gestión del talento humano",
+        "anchor": "tema-1_5"
+      }  
+    ]   
+  }
+]
